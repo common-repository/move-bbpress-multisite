@@ -1,0 +1,23 @@
+== installation ==
+NOTE: This plugin is meant for a multisite version of WordPress.
+To install this plugin simply go to the wp-admin area of your WordPress install,
+Plugins>Add New>Upload Plugin, from there select the zip file you downloaded and install the plugin and Network activate.
+Once activated you will see a new menu item in your Network admin area called bbPress Move.
+
+== How to use ==
+
+= Copy bbPress =
+1. Create a new multisite site and activate bbPress.
+2. Visit the network menu bbPress Move.
+3. Select the multisite to copy bbPress from.
+4. Select a the NEW multisite site to copy bbPress to.
+5. Select the options you would like to copy over to the new site.
+6. Click "Move bbPress" button and wait for it to finish.
+
+= Delete bbPress =
+1. Visit the network menu bbPress Move.
+2. Select the tab "bbPress Delete".
+4. Select the multisite site to delete bbPress from.
+5. Select the options you would like to delete from the site.
+6. Click "Delete bbPress" button and wait for it to finish.
+
